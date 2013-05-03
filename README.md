@@ -1,6 +1,8 @@
 Style-Guide
 ===========
 
+ * [Python](python.md)
+
 Language Notes:
 
  * "Use" is a positive instruction, equivalent to "must use".
